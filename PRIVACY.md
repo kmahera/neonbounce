@@ -1,6 +1,6 @@
 # Privacy Policy for Neon Bounce
 
-**Effective date:** [DATE YOU PUBLISH THIS]
+**Effective date:** 14/07/2026
 
 This privacy policy explains how the Neon Bounce mobile game ("the App") handles information.
 
@@ -51,4 +51,4 @@ effective date.
 
 ## Contact
 
-If you have questions about this privacy policy, contact: **[YOUR CONTACT EMAIL]**
+If you have questions about this privacy policy, contact: **diyashashield@gmail.com**
